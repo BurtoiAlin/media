@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 1
+    },
+    {
+      "name": "Johanna Halvorson",
+      "id": 4
+    },
+    {
+      "name": "Wendy Mueller",
+      "id": 5
+    },
+    {
+      "name": "Joe Stanton",
+      "id": 6
+    },
+    {
+      "name": "Allan Welch",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Electric Eye",
+      "userId": 1
+    },
+    {
+      "userId": 4,
+      "title": "Small Wooden Cheese",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Practical Cotton Sausages",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Cotton Bacon",
+      "id": 11
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71569",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=9953",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=10031",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45119",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68650",
+      "id": 10
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3314",
+      "id": 11
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12345",
+      "id": 12
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=37891",
+      "id": 13
+    }
+  ]
+}
